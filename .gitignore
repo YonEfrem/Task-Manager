@@ -1,0 +1,8 @@
+node_modules/
+.env
+
+task-manager-frontend/build
+task-manager-backend/node_modules
+task-manager-backend/.env
+
+*.log
